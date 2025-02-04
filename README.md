@@ -13,5 +13,5 @@
 ### 3. Validação
 - Antes de adicionar o nome à lista, é verificado se o campo de entrada não está vazio. Se estiver, um alerta é mostrado.
 
-- Imagem do teste
+###  Imagem do teste
 ![](https://github.com/IvoJucaBezerra/sorteioAmigo-ONE-ALURA/blob/main/assets/img-teste.png)
